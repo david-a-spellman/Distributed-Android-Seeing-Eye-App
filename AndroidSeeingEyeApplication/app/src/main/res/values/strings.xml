@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My ApplicationAndroidSeeingEyeApplication</string>
+    <string name="dummy_button">START</string>
+    <string name="dummy_content">Current Image</string>
+
+    <string-array name="mode_array">
+        <item>Face recognition only</item>
+        <item>Full object recognition</item>
+    </string-array>
+</resources>
